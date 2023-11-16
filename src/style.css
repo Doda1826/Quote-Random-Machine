@@ -18,6 +18,15 @@
     list-style: none;
 }
 
+@media (max-width: 768px) {
+    #list {
+        font-size: 18px;
+        width: 80%;
+        margin: 10px;
+    }
+}
+
+
 @import '~bootstrap/dist/css/bootstrap.min.css'
 
 
