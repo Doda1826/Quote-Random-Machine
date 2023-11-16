@@ -1,5 +1,5 @@
 import React from "react";
-import { Connect, connect } from "react-redux";
+import { connect } from "react-redux";
 import fetchQuote from "./redux/actions";
 import './style.css';
 
